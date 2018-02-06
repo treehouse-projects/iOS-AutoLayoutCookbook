@@ -12,6 +12,7 @@
 		97DCD0B9202A3F2400B28533 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0B7202A3F2400B28533 /* Main.storyboard */; };
 		97DCD0BB202A3F2400B28533 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0BA202A3F2400B28533 /* Assets.xcassets */; };
 		97DCD0BE202A3F2400B28533 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0BC202A3F2400B28533 /* LaunchScreen.storyboard */; };
+		97DCD0C6202A44CA00B28533 /* EqualWidthViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		97DCD0BA202A3F2400B28533 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		97DCD0BD202A3F2400B28533 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97DCD0BF202A3F2400B28533 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = EqualWidthViews.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				97DCD0BA202A3F2400B28533 /* Assets.xcassets */,
 				97DCD0BC202A3F2400B28533 /* LaunchScreen.storyboard */,
 				97DCD0BF202A3F2400B28533 /* Info.plist */,
+				97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */,
 			);
 			path = AutoLayoutCookbook;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 				97DCD0BE202A3F2400B28533 /* LaunchScreen.storyboard in Resources */,
 				97DCD0BB202A3F2400B28533 /* Assets.xcassets in Resources */,
 				97DCD0B9202A3F2400B28533 /* Main.storyboard in Resources */,
+				97DCD0C6202A44CA00B28533 /* EqualWidthViews.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
