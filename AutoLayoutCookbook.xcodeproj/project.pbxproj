@@ -13,6 +13,7 @@
 		97DCD0BB202A3F2400B28533 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0BA202A3F2400B28533 /* Assets.xcassets */; };
 		97DCD0BE202A3F2400B28533 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0BC202A3F2400B28533 /* LaunchScreen.storyboard */; };
 		97DCD0C6202A44CA00B28533 /* EqualWidthViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */; };
+		97DCD0C8202A4B4E00B28533 /* EqualWidthViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DCD0C7202A4B4E00B28533 /* EqualWidthViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		97DCD0BD202A3F2400B28533 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		97DCD0BF202A3F2400B28533 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = EqualWidthViews.storyboard; sourceTree = "<group>"; };
+		97DCD0C7202A4B4E00B28533 /* EqualWidthViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualWidthViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				97DCD0BC202A3F2400B28533 /* LaunchScreen.storyboard */,
 				97DCD0BF202A3F2400B28533 /* Info.plist */,
 				97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */,
+				97DCD0C7202A4B4E00B28533 /* EqualWidthViews.swift */,
 			);
 			path = AutoLayoutCookbook;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				97DCD0B6202A3F2400B28533 /* ViewController.swift in Sources */,
 				97DCD0B4202A3F2400B28533 /* AppDelegate.swift in Sources */,
+				97DCD0C8202A4B4E00B28533 /* EqualWidthViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
