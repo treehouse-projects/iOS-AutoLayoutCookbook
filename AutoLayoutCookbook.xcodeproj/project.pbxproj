@@ -14,6 +14,7 @@
 		97DCD0BE202A3F2400B28533 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0BC202A3F2400B28533 /* LaunchScreen.storyboard */; };
 		97DCD0C6202A44CA00B28533 /* EqualWidthViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */; };
 		97DCD0C8202A4B4E00B28533 /* EqualWidthViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DCD0C7202A4B4E00B28533 /* EqualWidthViews.swift */; };
+		97DCD0CA202A589800B28533 /* DifferingHeightViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0C9202A589800B28533 /* DifferingHeightViews.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		97DCD0BF202A3F2400B28533 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = EqualWidthViews.storyboard; sourceTree = "<group>"; };
 		97DCD0C7202A4B4E00B28533 /* EqualWidthViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualWidthViews.swift; sourceTree = "<group>"; };
+		97DCD0C9202A589800B28533 /* DifferingHeightViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DifferingHeightViews.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				97DCD0BF202A3F2400B28533 /* Info.plist */,
 				97DCD0C5202A44CA00B28533 /* EqualWidthViews.storyboard */,
 				97DCD0C7202A4B4E00B28533 /* EqualWidthViews.swift */,
+				97DCD0C9202A589800B28533 /* DifferingHeightViews.storyboard */,
 			);
 			path = AutoLayoutCookbook;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				97DCD0BE202A3F2400B28533 /* LaunchScreen.storyboard in Resources */,
+				97DCD0CA202A589800B28533 /* DifferingHeightViews.storyboard in Resources */,
 				97DCD0BB202A3F2400B28533 /* Assets.xcassets in Resources */,
 				97DCD0B9202A3F2400B28533 /* Main.storyboard in Resources */,
 				97DCD0C6202A44CA00B28533 /* EqualWidthViews.storyboard in Resources */,
