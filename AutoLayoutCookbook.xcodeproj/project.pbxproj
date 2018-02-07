@@ -17,6 +17,7 @@
 		97DCD0CA202A589800B28533 /* DifferingHeightViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0C9202A589800B28533 /* DifferingHeightViews.storyboard */; };
 		97DCD0CC202A5E0600B28533 /* DifferingHeightViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DCD0CB202A5E0600B28533 /* DifferingHeightViews.swift */; };
 		97DCD0CE202A66A700B28533 /* ComplexWidthViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0CD202A66A700B28533 /* ComplexWidthViews.storyboard */; };
+		97DCD0D0202A6CC500B28533 /* ComplexWidthViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DCD0CF202A6CC500B28533 /* ComplexWidthViews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		97DCD0C9202A589800B28533 /* DifferingHeightViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DifferingHeightViews.storyboard; sourceTree = "<group>"; };
 		97DCD0CB202A5E0600B28533 /* DifferingHeightViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferingHeightViews.swift; sourceTree = "<group>"; };
 		97DCD0CD202A66A700B28533 /* ComplexWidthViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ComplexWidthViews.storyboard; sourceTree = "<group>"; };
+		97DCD0CF202A6CC500B28533 /* ComplexWidthViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexWidthViews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				97DCD0C9202A589800B28533 /* DifferingHeightViews.storyboard */,
 				97DCD0CB202A5E0600B28533 /* DifferingHeightViews.swift */,
 				97DCD0CD202A66A700B28533 /* ComplexWidthViews.storyboard */,
+				97DCD0CF202A6CC500B28533 /* ComplexWidthViews.swift */,
 			);
 			path = AutoLayoutCookbook;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				97DCD0D0202A6CC500B28533 /* ComplexWidthViews.swift in Sources */,
 				97DCD0B6202A3F2400B28533 /* ViewController.swift in Sources */,
 				97DCD0B4202A3F2400B28533 /* AppDelegate.swift in Sources */,
 				97DCD0CC202A5E0600B28533 /* DifferingHeightViews.swift in Sources */,
