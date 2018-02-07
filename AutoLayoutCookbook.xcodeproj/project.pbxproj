@@ -19,6 +19,7 @@
 		97DCD0CE202A66A700B28533 /* ComplexWidthViews.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0CD202A66A700B28533 /* ComplexWidthViews.storyboard */; };
 		97DCD0D0202A6CC500B28533 /* ComplexWidthViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DCD0CF202A6CC500B28533 /* ComplexWidthViews.swift */; };
 		97DCD0D2202B5E0A00B28533 /* Form.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97DCD0D1202B5E0A00B28533 /* Form.storyboard */; };
+		97DCD0D4202B680A00B28533 /* Form.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DCD0D3202B680A00B28533 /* Form.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		97DCD0CD202A66A700B28533 /* ComplexWidthViews.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ComplexWidthViews.storyboard; sourceTree = "<group>"; };
 		97DCD0CF202A6CC500B28533 /* ComplexWidthViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexWidthViews.swift; sourceTree = "<group>"; };
 		97DCD0D1202B5E0A00B28533 /* Form.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Form.storyboard; sourceTree = "<group>"; };
+		97DCD0D3202B680A00B28533 /* Form.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Form.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				97DCD0CD202A66A700B28533 /* ComplexWidthViews.storyboard */,
 				97DCD0CF202A6CC500B28533 /* ComplexWidthViews.swift */,
 				97DCD0D1202B5E0A00B28533 /* Form.storyboard */,
+				97DCD0D3202B680A00B28533 /* Form.swift */,
 			);
 			path = AutoLayoutCookbook;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				97DCD0B4202A3F2400B28533 /* AppDelegate.swift in Sources */,
 				97DCD0CC202A5E0600B28533 /* DifferingHeightViews.swift in Sources */,
 				97DCD0C8202A4B4E00B28533 /* EqualWidthViews.swift in Sources */,
+				97DCD0D4202B680A00B28533 /* Form.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
